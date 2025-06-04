@@ -34,9 +34,9 @@
 
 - 😄 Welcome to my GitHub profile!.. 
 - 💼 I’m currently working at Lytcone Technologies.
-- 🐍 I'm a Python Developer with 3+ years of experience.
+- 👨‍💻 I'm a Python Developer with 3+ years of experience.
 - 🎓 I have completed my MBA (Master of Business Administration).
-- 💡 I'm passionate about software development and building impactful solutions.
+- 💡 I'm passionate about software development & building impactful solutions.
 - 💬 Ask me about Full-Stack Development, Python, or anything tech-relate.
 - 📫 How to reach me: sravani.dev63@gmail.com
   <br>
