@@ -1,5 +1,5 @@
 
-# Hey Everyone! I'm [Chiramana Sravani](https://github.com/kiransagar1) <img src="https://github.com/himanshusharma89/himanshusharma89/blob/master/Hi.gif" width="25px">
+# Hey Everyone! I'm [Chiramana Sravani](https://github.com/chiramanasravani) <img src="https://github.com/himanshusharma89/himanshusharma89/blob/master/Hi.gif" width="25px">
 <br><br>
 
 <a href="https://www.linkedin.com/in/chiramana-sravani-06598a369/">
