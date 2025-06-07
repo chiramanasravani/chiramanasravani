@@ -38,7 +38,7 @@
 - 🎓 I have completed my MBA (Master of Business Administration).
 - 💡 I'm passionate about software development.
 - 💬 Ask me about Full-Stack Development, Python, or anything tech-relate.
-- 📫 How to reach me: sravani.dev63@gmail.com
+- 📫 How to reach me: sravani.dev64@gmail.com
   <br>
 </div>
 
