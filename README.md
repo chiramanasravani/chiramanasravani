@@ -13,7 +13,7 @@
 
 
 
-<a href="mailto:sravani.dev63@gmail.com">
+<a href="mailto:sravani.dev64@gmail.com">
   <img align="left" alt="akd's Email" height="30px width="150px" src="https://img.shields.io/badge/Email-7952B3?style=for-the-badge&logo=Linkedin&logoColor=white" />
 </a>
 
