@@ -6,7 +6,7 @@
   <img align="left" alt="akd's Linkdein" width="100px" src="https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white" />
 </a>
 
-<a href="#">
+<a href="https://chiramanasravani.github.io/My_Portfolio-ChiramanaSravani/">
   <img align="left" alt="akd's Portfolio" width="100px" src="https://img.shields.io/badge/Portfolio-107C10?style=for-the-badge&logo=Portfolio&logoColor=white" />
 </a>
 
