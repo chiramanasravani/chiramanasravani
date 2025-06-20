@@ -2,7 +2,7 @@
 # Hey Everyone! I'm [Chiramana Sravani](https://github.com/chiramanasravani) <img src="https://github.com/himanshusharma89/himanshusharma89/blob/master/Hi.gif" width="25px">
 <br><br>
 
-<a href="https://www.linkedin.com/in/chiramana-sravani-41a3b036a/">
+<a href="https://www.linkedin.com/in/chiramana-sravani-6079b9370/">
   <img align="left" alt="akd's Linkdein" width="100px" src="https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white" />
 </a>
 
@@ -13,7 +13,7 @@
 
 
 
-<a href="mailto:sravani.dev64@gmail.com">
+<a href="mailto:sravanichiramana1800@gmail.com">
   <img align="left" alt="akd's Email" height="30px width="150px" src="https://img.shields.io/badge/Email-7952B3?style=for-the-badge&logo=Linkedin&logoColor=white" />
 </a>
 
