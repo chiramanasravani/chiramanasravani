@@ -33,12 +33,12 @@
   <br>
 
 - 😄 Welcome to my GitHub profile!.. 
-- 💼 I’m currently working at Lytcone Technologies.
+- 💼 I’m currently working at Concentrix.
 - 👨‍💻 I'm a Python Developer with 3+ years of experience.
 - 🎓 I have completed my MBA (Master of Business Administration).
 - 💡 I'm passionate about software development.
 - 💬 Ask me about Full-Stack Development, Python, or anything tech-relate.
-- 📫 How to reach me: sravani.dev64@gmail.com
+- 📫 How to reach me: sravanichiramana1800@gmail.com
   <br>
 </div>
 
